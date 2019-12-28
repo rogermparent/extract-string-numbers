@@ -1,0 +1,12 @@
+{
+  "name": "extract-string-numbers",
+  "version": "1.0.0",
+  "description": "Deconstructs a string into numbers and everything between them for later reconstruction.",
+  "main": "index.js",
+  "author": "rmp",
+  "license": "MIT",
+  "dependencies": {
+    "format-quantity": "^0.6.0",
+    "numeric-quantity": "^0.5.1"
+  }
+}
