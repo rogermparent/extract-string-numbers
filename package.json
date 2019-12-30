@@ -5,6 +5,12 @@
   "main": "index.js",
   "author": "rmp",
   "license": "MIT",
+  "keywords": [
+    "parser",
+    "number",
+    "recipe",
+    "ingredient"
+  ],
   "dependencies": {
     "format-quantity": "^0.6.0",
     "numeric-quantity": "^0.5.1"
